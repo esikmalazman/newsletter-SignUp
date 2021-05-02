@@ -1,4 +1,5 @@
-# newsletter-SignUp
+# newsletter-SignUp (Bootcamp Project Course)
+
 creating simple newsletter signup which involve fullstack development (node.js)
 #What I Learn
 1. I learn on how to deploy web application from local server an external server
